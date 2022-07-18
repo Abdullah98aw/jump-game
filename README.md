@@ -33,4 +33,5 @@ coming soon once exam is over :D
 #### Contibutors
 
 - Chandradeo Arya
+- Abdullah Alawad
 - Abdulaziz Binmozal
